@@ -1,0 +1,242 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "pic": "img",
+      "name": "John Doe",
+      "address": "123 Main St, City",
+      "phoneNumber": "+1234567890",
+      "alternatePhoneNumber": "+1987654321",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "address": "456 Elm St, Town",
+      "phoneNumber": "+9876543210",
+      "alternatePhoneNumber": "+1234567890",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "address": "789 Oak St, Village",
+      "phoneNumber": "+1112223333",
+      "alternatePhoneNumber": "+4445556666",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "address": "101 Pine St, Town",
+      "phoneNumber": "+7778889999",
+      "alternatePhoneNumber": "+3332221111",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 5,
+      "name": "Eva Martinez",
+      "address": "202 Cedar St, City",
+      "phoneNumber": "+5554443333",
+      "alternatePhoneNumber": "+9998887777",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 6,
+      "name": "Michael Lee",
+      "address": "303 Maple St, Village",
+      "phoneNumber": "+6667778888",
+      "alternatePhoneNumber": "+2223334444",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Wilson",
+      "address": "404 Birch St, City",
+      "phoneNumber": "+4445556666",
+      "alternatePhoneNumber": "+8889990000",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 8,
+      "name": "William Taylor",
+      "address": "505 Oak St, Town",
+      "phoneNumber": "+3332221111",
+      "alternatePhoneNumber": "+7778889999",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Garcia",
+      "address": "606 Pine St, Village",
+      "phoneNumber": "+9998887777",
+      "alternatePhoneNumber": "+5554443333",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 10,
+      "name": "David Rodriguez",
+      "address": "707 Cedar St, City",
+      "phoneNumber": "+2223334444",
+      "alternatePhoneNumber": "+6667778888",
+      "status": "Active",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  ],
+  "vehicles": [],
+  "bookings": [
+    {
+      "id": 1,
+      "vehicleModel": "Toyota Camry",
+      "vehicleNumber": "ABC123",
+      "driverName": "John Doe",
+      "startLocation": "City A",
+      "endLocation": "City B",
+      "startDate": "2024-03-28",
+      "endDate": "2024-03-29",
+      "customerName": "Alice Smith",
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": 2,
+      "vehicleModel": "Honda Accord",
+      "vehicleNumber": "XYZ987",
+      "driverName": "Jane Smith",
+      "startLocation": "City B",
+      "endLocation": "City C",
+      "startDate": "2024-03-30",
+      "endDate": "2024-04-01",
+      "customerName": "Bob Johnson",
+      "paymentStatus": "Pending"
+    },
+    {
+      "id": 3,
+      "vehicleModel": "Ford Escape",
+      "vehicleNumber": "DEF456",
+      "driverName": "Michael Johnson",
+      "startLocation": "City C",
+      "endLocation": "City D",
+      "startDate": "2024-04-02",
+      "endDate": "2024-04-04",
+      "customerName": "Eva Brown",
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": 4,
+      "vehicleModel": "Nissan Sentra",
+      "vehicleNumber": "GHI789",
+      "driverName": "Emily White",
+      "startLocation": "City D",
+      "endLocation": "City E",
+      "startDate": "2024-04-05",
+      "endDate": "2024-04-07",
+      "customerName": "Charlie Davis",
+      "paymentStatus": "Pending"
+    },
+    {
+      "id": 5,
+      "vehicleModel": "Chevrolet Malibu",
+      "vehicleNumber": "JKL012",
+      "driverName": "David Brown",
+      "startLocation": "City E",
+      "endLocation": "City F",
+      "startDate": "2024-04-08",
+      "endDate": "2024-04-10",
+      "customerName": "Grace Wilson",
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": 6,
+      "vehicleModel": "Hyundai Elantra",
+      "vehicleNumber": "MNO345",
+      "driverName": "Sophia Taylor",
+      "startLocation": "City F",
+      "endLocation": "City G",
+      "startDate": "2024-04-11",
+      "endDate": "2024-04-13",
+      "customerName": "James Lee",
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": 7,
+      "vehicleModel": "Kia Optima",
+      "vehicleNumber": "PQR678",
+      "driverName": "Olivia Moore",
+      "startLocation": "City G",
+      "endLocation": "City H",
+      "startDate": "2024-04-14",
+      "endDate": "2024-04-16",
+      "customerName": "Sophia Garcia",
+      "paymentStatus": "Pending"
+    },
+    {
+      "id": 8,
+      "vehicleModel": "Volkswagen Jetta",
+      "vehicleNumber": "STU901",
+      "driverName": "Daniel Martinez",
+      "startLocation": "City H",
+      "endLocation": "City I",
+      "startDate": "2024-04-17",
+      "endDate": "2024-04-19",
+      "customerName": "Lucas Hernandez",
+      "paymentStatus": "Pending"
+    },
+    {
+      "id": 9,
+      "vehicleModel": "Subaru Legacy",
+      "vehicleNumber": "VWX234",
+      "driverName": "Mia Gonzalez",
+      "startLocation": "City I",
+      "endLocation": "City J",
+      "startDate": "2024-04-20",
+      "endDate": "2024-04-22",
+      "customerName": "Ethan Perez",
+      "paymentStatus": "Pending"
+    },
+    {
+      "id": 10,
+      "vehicleModel": "Tesla Model S",
+      "vehicleNumber": "YZA567",
+      "driverName": "Isabella Rivera",
+      "startLocation": "City J",
+      "endLocation": "City K",
+      "startDate": "2024-04-23",
+      "endDate": "2024-04-25",
+      "customerName": "Ava Flores",
+      "paymentStatus": "Paid"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "phone": "+1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "phone": "+1987654321"
+    }
+  ]
+}
